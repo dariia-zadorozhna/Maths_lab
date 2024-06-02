@@ -1,2 +1,2 @@
 # Maths_lab
-A program for matrixes linear transformations
+A program for matrices linear transformations
